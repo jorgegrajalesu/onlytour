@@ -57,7 +57,9 @@ body{
 }
 
 
-
+.alto{
+    height: 620px !important;
+}
 
 /* footer */
 #page-footer{
